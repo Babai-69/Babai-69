@@ -12,7 +12,10 @@
 </div>
 
 ---
-
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=babai-69&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184854434%3Fu%3D9a4798fc0ce9b4816a37632b860c0214c3355566%26v%3D4&v=showcase-wordmark-3" alt="babai-69 wordmark visual" />
+</p>
+---
 ## 01. whoami
 
 ```typescript
