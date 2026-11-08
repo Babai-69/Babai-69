@@ -1,7 +1,4 @@
 <div align="center">
-
-<p><sub>WOW PROFILE · BABAI-69 · LIVE</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=babai-69&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184854434%3Fu%3D9a4798fc0ce9b4816a37632b860c0214c3355566%26v%3D4&variant=living-identity&label=babai-69&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=babai-69&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184854434%3Fu%3D9a4798fc0ce9b4816a37632b860c0214c3355566%26v%3D4&variant=living-identity&label=babai-69&v=wow-living-identity-1&mode=dark" width="100%" alt="babai-69 animated Living Identity portrait and ASCII name" />
