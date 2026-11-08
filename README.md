@@ -270,5 +270,3 @@ No terminal required.
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07050C,50:3D0F3F,100:C59BFF" width="100%" alt="Footer" />
 
 </div>
-
-<p align="center"><sub>babai-69 · <a href="https://www.gitskins.com/readme-generator?template=community-not-your-average-readme-40hi">Not Your Average README</a> template by <a href="https://www.gitskins.com/creators/baddiecodes">@baddiecodes</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
