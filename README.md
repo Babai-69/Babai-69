@@ -230,20 +230,6 @@ No terminal required.
 
 <em>✏️ Say this in your own words.</em>
 
-<div align="center">
-
-<a href="https://heyyappa.com">
-<img src="https://img.shields.io/badge/YAPPA-07050C?style=for-the-badge" />
-</a>
-<a href="https://junohauz.xyz">
-<img src="https://img.shields.io/badge/JUNOHAUZ-A66CCD?style=for-the-badge" />
-</a>
-<a href="https://luma.com/user/mews">
-<img src="https://img.shields.io/badge/EVENTS-C59BFF?style=for-the-badge" />
-</a>
-
-</div>
-
 ---
 
 <div align="center">
